@@ -3,6 +3,7 @@
 	<classpathentry excluding="MayProgram/ex_02052024Arrays/" kind="src" path="April"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="May"/>
+	<classpathentry kind="src" path="June"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-21">
 		<attributes>
 			<attribute name="module" value="true"/>
